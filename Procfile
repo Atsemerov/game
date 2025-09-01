@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn dg_game.wsgi
