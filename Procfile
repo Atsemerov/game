@@ -1,1 +1,1 @@
-web: gunicorn dg_game.wsgi
+web: gunicorn dj_game.wsgi
